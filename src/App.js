@@ -1,5 +1,5 @@
 import React from 'react';
-import bass from './bass.svg';
+import bass from './bass3.svg';
 import './App.css';
 
 function App() {
