@@ -1,22 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
+import bass from './bass.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I made a website
         </p>
+        <p></p>
+        <img src={bass} className="App-logo" alt="logo" />
+        <p></p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/gfayette"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My Github
         </a>
       </header>
     </div>
